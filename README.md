@@ -1,4 +1,4 @@
-A magnificent Japan themed Sushi website for Sushiman
+A magnificent Japan-themed Sushi website for Sushiman
 
 This Project uses:
 
@@ -6,7 +6,7 @@ This Project uses:
 - CSS
 - AOS (for animations)
 
-What I learnt
+Key takeaways:
 
 - Used semantic HTML
 - BEM model for class names
